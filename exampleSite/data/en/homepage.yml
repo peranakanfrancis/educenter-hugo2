@@ -1,7 +1,7 @@
 ---
 slider:
   enable: true
-  bg_image: "/images/frankfurt.jpg"
+  bg_image: ''
   slider_item:
   - title: Golden Visa Portugal 2021
     content: The golden visa grants qualifying investors and their family members
