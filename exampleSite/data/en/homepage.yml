@@ -3,10 +3,13 @@ slider:
   enable: true
   bg_image: "/images/frankfurt.jpg"
   slider_item:
-  - title: Your bright future is our mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
-      exer
+  - title: Golden Visa Portugal 2021
+    content: The golden visa grants qualifying investors and their family members
+      the right to live, work and study in Portugal and permits free movement in Europe’s
+      Schengen Area. Opportunities to become a permanent resident or citizen are possible,
+      provided that the qualifying investment is kept for at least five years, and
+      that all requirements set forth by the Portuguese immigration and nationality
+      laws are obeyed.
     animation_in: left
     animation_out: right
     button:
